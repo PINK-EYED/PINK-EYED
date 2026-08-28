@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  $${\color{#FF69B4}\text{Strawpage is still a wip im lazy}}$$
+  $${\color{7B146F}\text{Strawpage is still a wip im just lazy}}$$
 </p>
 
 
