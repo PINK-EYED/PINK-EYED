@@ -14,6 +14,10 @@
 ⠀⠀⠀⠀⠀ ⠀⠀ ⠀   ♱  ⠀⠀⠀ ⠀⠀⠀⠀ ⠀     <a href="https://guns.lol/cyclops."><b>guns.</b>lol</a>
 </p>
 
+<p align="center">
+  $${\color{#FF69B4}\text{Strawpage is still a wip im lazy}}$$
+</p>
+
 
 <table align="center">
   <tr>
