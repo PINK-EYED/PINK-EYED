@@ -19,18 +19,6 @@
 </p>
 
 
-<table align="center">
-  <tr>
-    <td><img src="https://file.garden/ao-GsxSOlmFOq0NX/InShot_20260827_231147158.gif" width="150"></td>
-    <td><img src="https://file.garden/ao-GsxSOlmFOq0NX/InShot_20260827_231632634.gif" width="150"></td>
-    <td><img src="https://file.garden/ao-GsxSOlmFOq0NX/b134a6dc79e3509850ebeffdb77078ee.gif" width="150"></td>
-  </tr>
-</table>
-
-<p align="center">
-</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=1500&pause=5000&color=B0B0B0&center=true&vCenter=true&repeat=true&width=670&lines=Main+Kins" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wazz5uu73nrsfmgoncbq3wxg2a&redirect=true">
