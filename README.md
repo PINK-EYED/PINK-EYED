@@ -11,11 +11,7 @@
 
 <p align="center">
   <a href="https://cyclops.atabook.org/"><b>ata</b>book</a>
-⠀⠀⠀⠀⠀ ⠀⠀ ⠀   ♱  ⠀⠀⠀ ⠀⠀⠀⠀ ⠀     <a href="https://guns.lol/cyclops."><b>guns.</b>lol</a>
-</p>
-
-<p align="center">
-  $${\color{7B146F}\text{Strawpage is still a wip im just lazy}}$$
+⠀⠀⠀⠀⠀ ⠀⠀<a href="https://pinkeyed.straw.page"><b>straw</b>page</a>⠀  ⠀ ⠀⠀⠀⠀ ⠀     <a href="https://guns.lol/cyclops."><b>guns.</b>lol</a>
 </p>
 
 
